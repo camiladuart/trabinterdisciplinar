@@ -1,5 +1,3 @@
-# trabinterdisciplinar
-linguagens de programação + interação homem-computador + probabilidade e estatística
 # Trabalho Interdisciplinar
 Trabalho Interdisciplinar entre as disciplinas de
 <b>Linguagem de Programação,
